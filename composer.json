@@ -2,7 +2,6 @@
     "name": "magedin/magento2-pt_br",
     "description": "Brazilian Portuguese translation for Magento 2.",
     "homepage": "https://github.com/magedin/magento2-language-pt_br",
-    "version": "100.0.2",
     "license": [
         "MIT"
     ],
