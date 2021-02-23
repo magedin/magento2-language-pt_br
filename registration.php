@@ -10,6 +10,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::LANGUAGE,
-    'MagedIn_Language_pt_BR',
+    'magedin_pt_br',
     __DIR__
 );
